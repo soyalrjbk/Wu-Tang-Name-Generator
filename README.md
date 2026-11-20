@@ -2,6 +2,8 @@
 
 A full-stack name generator that turns your answers to five quick questions — your favorite anime, video game, color, sport and food — into a Wu-Tang-style alias like **"Relentless Saiyan"** or **"Crimson Spartan."** Each pick maps to a word, and the server randomly combines two of them into your new name.
 
+**Live demo:** https://wu-tang-name-generator.up.railway.app
+
 [![Screenshot-2026-10-05-at-1-04-16-AM.png](https://i.postimg.cc/8Pc8MSTG/Screenshot-2026-10-05-at-1-04-16-AM.png)](https://postimg.cc/7bFQrjCt)
 
 ## How It's Made:
